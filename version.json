@@ -1,4 +1,4 @@
 {
-    "version":0.7,
+    "version":0.8,
     "changelog" : "Added animated market for tocoord \nAdded set train maks speed option \nSome fixes \nDev mode default set false \nfix some typo \nfix some bugs"
 }
