@@ -1,7 +1,11 @@
 {
-    "version":0.9,
-    "changelog" : "Key group system activated.\nFixing inventory open issue.",
+    "version":0.91,
+    "changelog" : "Fix GetConvar errors\nhttps://media.discordapp.net/attachments/913369861424562186/918252876617383966/unknown.png",
     "old":[
+        { 
+            "version":0.9,
+            "changelog" : "Key group system activated.\nFixing inventory open issue."
+        },
         { 
             "version":0.8,
             "changelog" : "Added animated market for tocoord \nAdded set train maks speed option \nSome fixes \nDev mode default set false \nfix some typo \nfix some bugs"
