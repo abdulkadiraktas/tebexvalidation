@@ -1,7 +1,11 @@
 {
-    "version":0.91,
-    "changelog" : "Fix GetConvar errors\nhttps://media.discordapp.net/attachments/913369861424562186/918252876617383966/unknown.png",
+    "version":0.92,
+    "changelog" : "Fix blip issue.",
     "old":[
+        { 
+            "version":0.91,
+            "changelog" : "Fix GetConvar errors\nhttps://media.discordapp.net/attachments/913369861424562186/918252876617383966/unknown.png"
+        },
         { 
             "version":0.9,
             "changelog" : "Key group system activated.\nFixing inventory open issue."
