@@ -1,7 +1,11 @@
 {
-    "version":0.92,
-    "changelog" : "Fix blip issue.",
+    "version":0.93,
+    "changelog" : "Train is deleted when the player is disconnected from server. \n deletetrain command has been updated. You don't need to drive the train to use this command.",
     "old":[
+        { 
+            "version":0.92,
+            "changelog" : "Fix blip issue."
+        },
         { 
             "version":0.91,
             "changelog" : "Fix GetConvar errors\nhttps://media.discordapp.net/attachments/913369861424562186/918252876617383966/unknown.png"
