@@ -1,9 +1,9 @@
 {
-    "version":0.3,
-    "changelog" : "First version",
+    "version":0.4,
+    "changelog" : "Add open map with item-only options to the config file.\rVersion checker options added",
     "old":[
         { 
-            "version":0.1,
+            "version":0.3,
             "changelog" : "First commit"
         }
     ]       
