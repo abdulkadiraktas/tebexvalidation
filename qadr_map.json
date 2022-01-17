@@ -1,5 +1,5 @@
 {
-    "version":0.4,
+    "version":0.5,
     "changelog" : "Add open map with item-only options to the config file.\rVersion checker options added",
     "old":[
         { 
