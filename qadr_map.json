@@ -1,7 +1,11 @@
 {
-    "version":0.51,
-    "changelog" : "Fix meta data",
-    "old":[        
+    "version":0.52,
+    "changelog" : "One sync update",
+    "old":[       
+        { 
+            "version":0.51,
+            "changelog" : "Fix meta data"
+        },      
         { 
             "version":0.5,
             "changelog" : "Add open map with item-only options to the config file.\rVersion checker options added"
