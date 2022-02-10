@@ -1,30 +1,34 @@
 {
-    "version":1.0,
-    "changelog" : "You can convert redemrp framework to your own framework. Check api\\api-server.lua file for more information.",
-    "old":[
-        { 
-            "version":0.93,
-            "changelog" : "Train is deleted when the player is disconnected from server. \n deletetrain command has been updated. You don't need to drive the train to use this command."
-        },
-        { 
-            "version":0.92,
-            "changelog" : "Fix blip issue."
-        },
-        { 
-            "version":0.91,
-            "changelog" : "Fix GetConvar errors\nhttps://media.discordapp.net/attachments/913369861424562186/918252876617383966/unknown.png"
-        },
-        { 
-            "version":0.9,
-            "changelog" : "Key group system activated.\nFixing inventory open issue."
-        },
-        { 
-            "version":0.8,
-            "changelog" : "Added animated market for tocoord \nAdded set train maks speed option \nSome fixes \nDev mode default set false \nfix some typo \nfix some bugs"
-        },
-        {
-            "version":0.4,
-            "changelog" : "Version checker added"
-        }
-    ]       
+  "version": 1.1,
+  "changelog": "1-Fix \"blossom-earth-jupiter\" crash issue.\n2-You can change notification system. In conf.lua.",
+  "old": [
+    {
+      "version": 1.0,
+      "changelog": "You can convert redemrp framework to your own framework. Check api\\api-server.lua file for more information."
+    },
+    {
+      "version": 0.93,
+      "changelog": "Train is deleted when the player is disconnected from server. \n deletetrain command has been updated. You don't need to drive the train to use this command."
+    },
+    {
+      "version": 0.92,
+      "changelog": "Fix blip issue."
+    },
+    {
+      "version": 0.91,
+      "changelog": "Fix GetConvar errors\nhttps://media.discordapp.net/attachments/913369861424562186/918252876617383966/unknown.png"
+    },
+    {
+      "version": 0.9,
+      "changelog": "Key group system activated.\nFixing inventory open issue."
+    },
+    {
+      "version": 0.8,
+      "changelog": "Added animated market for tocoord \nAdded set train maks speed option \nSome fixes \nDev mode default set false \nfix some typo \nfix some bugs"
+    },
+    {
+      "version": 0.4,
+      "changelog": "Version checker added"
+    }
+  ]
 }
