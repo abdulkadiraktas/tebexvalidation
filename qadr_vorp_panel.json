@@ -1,7 +1,11 @@
 {
-    "version":0.5,
-    "changelog" : "Added player ban system",
+    "version":0.51,
+    "changelog" : "Fix computer lang. issue",
     "old":[
+        { 
+            "version":0.5,
+            "changelog" : "Added player revive"
+        },
         { 
             "version":0.4,
             "changelog" : "Added player revive"
