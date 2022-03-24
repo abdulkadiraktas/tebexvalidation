@@ -1,18 +1,22 @@
 {
-    "version":0.51,
-    "changelog" : "Fix computer lang. issue",
-    "old":[
-        { 
-            "version":0.5,
-            "changelog" : "Added player revive"
-        },
-        { 
-            "version":0.4,
-            "changelog" : "Added player revive"
-        },
-        { 
-            "version":0.1,
-            "changelog" : "First commit"
-        }
-    ]       
+  "version": 0.52,
+  "changelog": "Add lua version support",
+  "old": [
+    {
+      "version": 0.51,
+      "changelog": "Fix computer lang. issue"
+    },
+    {
+      "version": 0.5,
+      "changelog": "Added player revive"
+    },
+    {
+      "version": 0.4,
+      "changelog": "Added player revive"
+    },
+    {
+      "version": 0.1,
+      "changelog": "First commit"
+    }
+  ]
 }
