@@ -1,5 +1,5 @@
 {
-  "version": 0.55,
+  "version": 0.56,
   "changelog": "Add admins support!\nAdd convert lua to c# .bat file!\nUpdate verification system base!\nAvailable Permissions : \n Kick Player\n Ban Player\n Add Item\n Add Money\n Teleport Player To Coords\n Boost HP and Energy\n Revive Player\n Realtime Data Update\n Download Data\n Add Page\n Delete Page\n Page Data Update\nFor more details check the discord : https://dc.abdulkadiraktas.com.tr",
   "old": [
     {
