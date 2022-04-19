@@ -1,10 +1,6 @@
 {
     "abdulkadiraktas-wzzgy5.users.cfx.re":{
         "ownedScript":{
-            "qadr_train":true,
-            "qadr_panel":true,
-            "qadr_vorp_panel":true,
-            "qadr_map":true,
             "qadr_house":true
         },
         "admincount":3
