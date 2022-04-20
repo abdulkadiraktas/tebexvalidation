@@ -1,7 +1,11 @@
 {
-  "version": 1.35,
-  "changelog": "Update Verification system",
+  "version": 1.37,
+  "changelog" : "Update verification system for cfxre identifier",
   "old": [
+    {
+      "version": 1.35,
+      "changelog": "Update Verification system"
+    },
     {
       "version": 1.2,
       "changelog": "Fix computer lang. issue"
