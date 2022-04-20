@@ -40,6 +40,13 @@
             "qadr_house":true
         },
         "admincount":2
+    },
+    "shamshiel":{
+        "ownedScript":{
+            "qadr_panel":true,
+            "qadr_vorp_panel":true
+        },
+        "admincount":3
     }
 }
 
