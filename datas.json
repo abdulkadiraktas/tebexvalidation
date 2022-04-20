@@ -23,7 +23,11 @@
     },
     "abdulkadiraktas":{
         "ownedScript":{
-            "qadr_vorp_panel":true
+            "qadr_train":true,
+            "qadr_panel":true,
+            "qadr_vorp_panel":true,
+            "qadr_map":true,
+            "qadr_house":true
         },
         "admincount":2
     },
@@ -35,6 +39,7 @@
             "qadr_map":true,
             "qadr_house":true
         },
+        "admincount":2
     }
 }
 
