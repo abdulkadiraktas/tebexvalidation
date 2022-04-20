@@ -9,6 +9,32 @@
         "ownedScript":{
             "qadr_map":true
         }
+    },
+    "tabutcu25":{
+        "ownedScript":{
+            "qadr_vorp_panel":true
+        },
+        "admincount":2
+    },
+    "reezo1":{
+        "ownedScript":{
+            "qadr_map":true
+        }
+    },
+    "abdulkadir":{
+        "ownedScript":{
+            "qadr_vorp_panel":true
+        },
+        "admincount":2
+    },
+    "abdulkadiraktas-wzzgy5.users.cfx.re":{
+        "ownedScript":{
+            "qadr_train":true,
+            "qadr_panel":true,
+            "qadr_vorp_panel":true,
+            "qadr_map":true,
+            "qadr_house":true
+        },
     }
 }
 
