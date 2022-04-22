@@ -52,6 +52,11 @@
         "ownedScript":{
             "qadr_train":true
         }
+    },
+    "AustinBMX":{
+        "ownedScript":{
+            "qadr_train":true
+        }
     }
 }
 
