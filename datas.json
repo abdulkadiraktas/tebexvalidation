@@ -47,6 +47,11 @@
             "qadr_vorp_panel":true
         },
         "admincount":3
+    },
+    "mafiaborn":{
+        "ownedScript":{
+            "qadr_train":true
+        }
     }
 }
 
