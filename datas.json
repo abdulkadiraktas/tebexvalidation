@@ -42,6 +42,11 @@
         "ownedScript":{
             "qadr_map":true
         }
+    },
+    "niodamian":{
+        "ownedScript":{
+            "qadr_map":true
+        }
     }
 }
 
