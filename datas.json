@@ -16,6 +16,12 @@
         },
         "admincount":2
     },
+    "bbrpredm":{
+        "ownedScript":{
+            "qadr_vorp_panel":true
+        },
+        "admincount":2
+    },
     "reezo1":{
         "ownedScript":{
             "qadr_map":true
@@ -39,12 +45,17 @@
             "qadr_train":true
         }
     },
-    "AustinBMX":{
+    "austinbmx":{
         "ownedScript":{
             "qadr_train":true
         }
     },
     "2loam":{
+        "ownedScript":{
+            "qadr_map":true
+        }
+    },
+    "skullog":{
         "ownedScript":{
             "qadr_map":true
         }
