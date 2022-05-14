@@ -64,6 +64,16 @@
         "ownedScript":{
             "qadr_map":true
         }
+    },
+    "wollffus":{
+        "ownedScript":{
+            "qadr_fishing":true
+        }
+    },
+    "mhcvision":{
+        "ownedScript":{
+            "qadr_fishing":true
+        }
     }
 }
 
