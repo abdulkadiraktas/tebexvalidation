@@ -1,5 +1,10 @@
 {
-    "version":0.1,
-    "changelog" : "First Release",
-    "old":[]
+    "version":0.2,
+    "changelog" : "Now you can translate \"No Bait\" text to your language",
+    "old":[
+        {
+            "version":0.1,
+            "changelog" : "First Release"
+        }
+    ]
 }
