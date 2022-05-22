@@ -77,6 +77,17 @@
     },
     "libertywolfgang":{
         "ownedScript":{
+            "qadr_fishing":true,
+            "qadr_map":true
+        }
+    },
+    "section80":{
+        "ownedScript":{
+            "qadr_train":true
+        }
+    },
+    "wartype":{
+        "ownedScript":{
             "qadr_fishing":true
         }
     }
