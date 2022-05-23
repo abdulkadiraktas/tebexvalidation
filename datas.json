@@ -90,6 +90,12 @@
         "ownedScript":{
             "qadr_fishing":true
         }
+    },
+    "crazykickassguy":{
+        "ownedScript":{
+            "qadr_fishing":true,
+            "qadr_map":true
+        }
     }
 }
 
