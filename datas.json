@@ -96,6 +96,11 @@
             "qadr_fishing":true,
             "qadr_map":true
         }
+    },
+    "fronteira": {
+        "ownedScript":{
+            "qadr_fishing":true
+        }
     }
 }
 
