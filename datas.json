@@ -111,6 +111,11 @@
         "ownedScript":{
             "qadr_fishing":true
         }
+    },
+    "andrard":{
+        "ownedScript":{
+            "qadr_fishing":true
+        }
     }
 }
 
