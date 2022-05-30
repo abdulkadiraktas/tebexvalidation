@@ -91,7 +91,7 @@
             "qadr_train":true
         }
     },
-    "wartype":{
+    "thh":{
         "ownedScript":{
             "qadr_fishing":true
         }
@@ -113,6 +113,11 @@
         }
     },
     "andrard":{
+        "ownedScript":{
+            "qadr_fishing":true
+        }
+    },
+    "waonechester":{
         "ownedScript":{
             "qadr_fishing":true
         }
