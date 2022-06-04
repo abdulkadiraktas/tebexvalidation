@@ -14,7 +14,7 @@
                     "[1]": {
                         "animasyon": "weaponanims",
                         "weaponanim": "WEAPON_RIFLE_BOLTACTION",
-                        "heading": -90,
+                        "heading": -90.0,
                         "coords": {
                             "x": 2829.2783203125,
                             "y": -1230.164794921875,
