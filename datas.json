@@ -278,5 +278,10 @@
         "ownedScript": {
             "qadr_fishing": true
         }
+    },
+    "kinghabibi":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
     }
 }
