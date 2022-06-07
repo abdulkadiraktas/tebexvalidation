@@ -63,7 +63,7 @@
           "y": -881.3,
           "z": 92.94
         },
-        "sandalye": [
+        "sabitobjeler": [
           {
             "prop": "mp005_s_posse_foldingchair_01x",
             "coords": {
@@ -89,9 +89,7 @@
               "y": 0,
               "z": -132.91
             }
-          }
-        ],
-        "duvarlar": [
+          },
           {
             "prop": "p_fence_wall01x",
             "coords": {
