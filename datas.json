@@ -283,5 +283,10 @@
         "ownedScript": {
             "qadr_identity": true
         }
+    },
+    "extraswiffy":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
     }
 }
