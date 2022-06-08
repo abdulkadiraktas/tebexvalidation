@@ -4,7 +4,7 @@
             "qadr_identity": true
         },
         "identityambientdata": [
-            { // Default Ambient
+            {
             "mainplayercoords": {
                 "x": -1365.17, "y": -880.71, "z": 90.01
             },
@@ -240,7 +240,7 @@
                 ]
             }
             },
-            { // Saint Denis Bazaar
+            {
             "mainplayercoords": {
                 "x": 2830.083251953125,
                 "y": -1228.7713623046875,
@@ -295,7 +295,7 @@
                 }
             }
             },
-            { // Blackwater Saloon
+            {
             "mainplayercoords": {
                 "x": -814.75,
                 "y": -1325.45,
@@ -344,7 +344,7 @@
                 }
             }
             },
-            { // Valentine Saloon
+            {
             "mainplayercoords": {
                 "x": -313.32,
                 "y": 804.97,
