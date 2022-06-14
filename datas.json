@@ -527,5 +527,10 @@
         "ownedScript": {
             "qadr_identity": true
         }
+    },
+    "leelay":{
+        "ownedScript": {
+            "qadr_fishing": true
+        }
     }
 }
