@@ -532,5 +532,11 @@
         "ownedScript": {
             "qadr_fishing": true
         }
+    },
+    "ironhide77":{
+        "ownedScript": {
+            "qadr_fishing": true,
+            "qadr_map": true
+        }
     }
 }
