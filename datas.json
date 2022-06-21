@@ -538,5 +538,10 @@
             "qadr_fishing": true,
             "qadr_map": true
         }
+    },
+    "macc419":{
+        "ownedScript": {
+            "qadr_fishing": true
+        }
     }
 }
