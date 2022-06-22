@@ -419,7 +419,8 @@
     },
     "bbrpredm": {
         "ownedScript": {
-            "qadr_vorp_panel": true
+            "qadr_vorp_panel": true,
+            "qadr_icons": true
         },
         "admincount": 2
     },
@@ -543,6 +544,11 @@
     "macc419":{
         "ownedScript": {
             "qadr_fishing": true
+        }
+    },
+    "bigboss":{
+        "ownedScript": {
+            "qadr_icons": true
         }
     }
 }
