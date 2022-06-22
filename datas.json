@@ -1,7 +1,8 @@
 {
     "abdulkadiraktas": {
         "ownedScript": {
-            "qadr_identity": true
+            "qadr_identity": true,
+            "qadr_icons": true
         },
         "identityambientdata": [
             {
