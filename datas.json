@@ -550,5 +550,10 @@
         "ownedScript": {
             "qadr_icons": true
         }
+    },
+    "steady":{
+        "ownedScript": {
+            "qadr_icons": true
+        }
     }
 }
