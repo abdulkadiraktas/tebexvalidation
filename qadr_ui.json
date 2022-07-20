@@ -1,7 +1,11 @@
 {
-    "version":0.3,
-    "changelog" : "Create Meters funtions updated.",
+    "version":0.4,
+    "changelog" : "Update serverside notification system.\nCheck config.lua",
     "old":[
+        {
+            "version":0.3,
+            "changelog" : "Create Meters funtions updated."
+        },
         {
             "version":0.2,
             "changelog" : "qadr_ui new version released\nCheck discord for more info or check gitbook page : https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui"
