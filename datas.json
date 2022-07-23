@@ -1,8 +1,14 @@
 {
     "abdulkadiraktas": {
         "ownedScript": {
+            "qadr_fishing": true,
+            "qadr_map": true,
+            "qadr_icons": true,
             "qadr_identity": true,
-            "qadr_icons": true
+            "qadr_panel": true,
+            "qadr_train": true,
+            "qadr_ui": true,
+            "qadr_vorp_panel": true   
         },
         "identityambientdata": [
             {
@@ -497,7 +503,8 @@
     "crazykickassguy": {
         "ownedScript": {
             "qadr_fishing": true,
-            "qadr_map": true
+            "qadr_map": true,
+            "qadr_ui": true
         }
     },
     "fronteira": {
@@ -507,7 +514,8 @@
     },
     "scalpfly": {
         "ownedScript": {
-            "qadr_fishing": true
+            "qadr_fishing": true,
+            "qadr_map": true
         }
     },
     "andrard": {
@@ -549,12 +557,49 @@
     },
     "bigboss":{
         "ownedScript": {
-            "qadr_icons": true
+            "qadr_icons": true,
+            "qadr_ui": true
         }
     },
     "steady":{
         "ownedScript": {
             "qadr_icons": true
+        }
+    },
+    "britnybish":{
+        "ownedScript": {
+            "qadr_fishing": true
+        }
+    },
+    "truestories":{
+        "ownedScript": {
+            "qadr_fishing": true
+        }
+    },
+    "smokee891":{
+        "ownedScript": {
+            "qadr_fishing": true
+        }
+    },
+    "arkose":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "aric":{
+        "ownedScript": {
+            "qadr_icons": true,
+            "qadr_ui": true
+        }
+    },
+    "bobertsawesome" : {
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "adel" : {
+        "ownedScript": {
+            "qadr_ui": true
         }
     }
 }
