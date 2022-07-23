@@ -1,7 +1,11 @@
 {
-    "version":0.4,
-    "changelog" : "Update serverside notification system.\nCheck config.lua",
+    "version":0.5,
+    "changelog" : "Added map info functions.\nCheck for more info https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/map-ui/map-info",
     "old":[
+        {
+            "version":0.4,
+            "changelog" : "Update serverside notification system.\nCheck config.lua"
+        },
         {
             "version":0.3,
             "changelog" : "Create Meters funtions updated."
