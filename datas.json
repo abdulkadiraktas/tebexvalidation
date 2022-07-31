@@ -450,7 +450,8 @@
     },
     "mafiaborn": {
         "ownedScript": {
-            "qadr_train": true
+            "qadr_train": true,
+            "qadr_identity":true
         }
     },
     "austinbmx": {
@@ -600,6 +601,26 @@
     "adel" : {
         "ownedScript": {
             "qadr_ui": true
+        }
+    },
+    "hollowcreekrp":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "quinton":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "pixierpserver":{
+        "ownedScript": {
+            "qadr_icons": true
+        }
+    },
+    "pelado93":{
+        "ownedScript": {
+            "qadr_fishing": true
         }
     }
 }
