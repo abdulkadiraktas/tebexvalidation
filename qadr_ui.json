@@ -1,7 +1,11 @@
 {
-    "version":0.6,
-    "changelog" : "Added new ui functions.\nCheck : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/5?u=abdulkadiraktas",
+    "version":0.7,
+    "changelog" : "Update Notes :\nhttps://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/6?u=abdulkadiraktas",
     "old":[
+        {
+            "version":0.6,
+            "changelog" : "Added new ui functions.\nCheck : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/5?u=abdulkadiraktas"
+        },
         {
             "version":0.5,
             "changelog" : "Added map info functions.\nCheck for more info https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/map-ui/map-info"
