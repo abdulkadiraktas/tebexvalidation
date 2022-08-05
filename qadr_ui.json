@@ -1,7 +1,11 @@
 {
-    "version":0.7,
-    "changelog" : "Update Notes :\nhttps://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/6?u=abdulkadiraktas",
+    "version":0.8,
+    "changelog" : "Fix some issue.",
     "old":[
+        {
+            "version":0.7,
+            "changelog" : "Update Notes :\nhttps://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/6?u=abdulkadiraktas"
+        },
         {
             "version":0.6,
             "changelog" : "Added new ui functions.\nCheck : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/5?u=abdulkadiraktas"
