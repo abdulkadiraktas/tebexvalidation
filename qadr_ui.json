@@ -1,7 +1,11 @@
 {
-    "version":0.8,
-    "changelog" : "Fix some issue.",
+    "version":0.9,
+    "changelog" : "Added :\nBounty poster system : https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/bounty-poster\nHonor UI : https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/honor-ui",
     "old":[
+        {
+            "version":0.8,
+            "changelog" : "Fix some issue."
+        },
         {
             "version":0.7,
             "changelog" : "Update Notes :\nhttps://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/6?u=abdulkadiraktas"
