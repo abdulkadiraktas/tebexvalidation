@@ -622,5 +622,48 @@
         "ownedScript": {
             "qadr_fishing": true
         }
+    },
+    "oof":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "m4ch1":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "figyu192":{
+        "ownedScript": {
+            "qadr_icons": true
+        }
+    },
+    "dafischers":{
+        "ownedScript": {
+            "qadr_train": true
+        }
+    },
+    "gtn13":{
+        "ownedScript": {
+            "qadr_fishing": true,
+            "qadr_map":true,
+            "qadr_train":true,
+            "qadr_ui":true
+        }
+    },
+    "dalnirsg1":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "Synthetic":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "united":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
     }
 }
