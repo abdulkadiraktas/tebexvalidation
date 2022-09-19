@@ -1,7 +1,12 @@
 {
-  "version": 1.41,
-  "changelog" : "Change devMenu prompt system. So you must use latest version of my \"redemrp_menu_base\"(https://github.com/abdulkadiraktas/redemrp_menu_base) script.\nDeleted all temp missons.\nChange language system. Check lang folder.\nJob check only works when player first login. This issue fixed.\n  Updated the job control script to run when you restart it as well. You won't need to select characters again after a reboot.\nUpdate verification system.\nI Fixed the camera transition issue.I Fixed the camera transition issue.",
+  "version": 1.5,
+  "changelog" : "Fix reported `deletetrain` functions.",
   "old": [
+    {
+      "version": 1.41,
+      "changelog" : "Change devMenu prompt system. So you must use latest version of my \"redemrp_menu_base\"(https://github.com/abdulkadiraktas/redemrp_menu_base) script.\nDeleted all temp missons.\nChange language system. Check lang folder.\nJob check only works when player first login. This issue fixed.\n  Updated the job control script to run when you restart it as well. You won't need to select characters again after a reboot.\nUpdate verification system.\nI Fixed the camera transition issue.I Fixed the camera transition issue.",
+  
+    },
     {
       "version": 1.37,
       "changelog": "Update verification system for cfxre identifier"
