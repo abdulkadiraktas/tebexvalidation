@@ -1,5 +1,9 @@
 {
-    "version":0.1,
-    "changelog" : "First release",
-    "old":[]
+    "version":0.2,
+    "changelog" : "Added permission system for deleting characters.\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/#2.-usage",
+    "old":[
+        {
+        "version":0.1,
+        "changelog" : "First release"
+    }]
 }
