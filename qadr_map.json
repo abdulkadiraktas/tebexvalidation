@@ -1,6 +1,6 @@
 {
     "version":1.0,
-    "changelog" : "Change verification system and function structure./nSome improvments",
+    "changelog" : "Change verification system and function structure.\nSome improvments",
     "old":[  
         {
             "version":0.59,
