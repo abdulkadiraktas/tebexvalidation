@@ -1,7 +1,11 @@
 {
-    "version":0.59,
-    "changelog" : "Guarma support",
-    "old":[       
+    "version":1.0,
+    "changelog" : "Change verification system and function structure./nSome improvments",
+    "old":[  
+        {
+            "version":0.59,
+            "changelog" : "Guarma support"
+        },     
         {
             "version":0.57,
             "changelog" : "Update verification system for cfxre identifier"
