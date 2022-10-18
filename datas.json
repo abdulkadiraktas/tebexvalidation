@@ -461,7 +461,7 @@
             "qadr_fishing":true
         }
     },
-    "ipromx":{ // from dvradmin9
+    "ipromx":{
         "ownedScript": {
             "qadr_identity": true
         }
