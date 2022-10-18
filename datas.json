@@ -218,7 +218,9 @@
     "mafiaborn": {
         "ownedScript": {
             "qadr_train": true,
-            "qadr_identity":true
+            "qadr_identity":true,
+            "qadr_ui": true,
+            "qadr_train_creator": true
         }
     },
     "austinbmx": {
@@ -259,7 +261,8 @@
     },
     "section80": {
         "ownedScript": {
-            "qadr_train": true
+            "qadr_train": true,
+            "qadr_ui": true
         }
     },
     "thh": {
@@ -283,7 +286,8 @@
     "scalpfly": {
         "ownedScript": {
             "qadr_fishing": true,
-            "qadr_map": true
+            "qadr_map": true,
+            "qadr_train": true
         }
     },
     "andrard": {
@@ -362,7 +366,8 @@
     },
     "bobertsawesome" : {
         "ownedScript": {
-            "qadr_ui": true
+            "qadr_ui": true,
+            "qadr_train_creator": true
         }
     },
     "adel" : {
@@ -387,7 +392,8 @@
     },
     "pelado93":{
         "ownedScript": {
-            "qadr_fishing": true
+            "qadr_fishing": true,
+            "qadr_train": true
         }
     },
     "oof":{
@@ -429,6 +435,90 @@
         }
     },
     "ugcam":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "niico":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "oldvalley":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "mr":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "soldierfirst":{
+        "ownedScript": {
+            "qadr_panel": true,
+            "qadr_identity": true,
+            "qadr_fishing":true
+        }
+    },
+    "ipromx":{ // from dvradmin9
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "a":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "familiecity" : {
+        "ownedScript": {
+            "qadr_icons": true,
+            "qadr_map": true,
+            "qadr_train": true
+        }
+    },
+    "luis":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "mraider":{
+        "ownedScript": {
+            "qadr_panel": true
+        }
+    },
+    "fp":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "nykouss":{
+        "ownedScript": {
+            "qadr_icons": true
+        }
+    },
+    "soykerz":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "follower-kieran":{
+        "ownedScript": {
+            "qadr_icons": true
+        }
+    },
+    "conflictnerd":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "og":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "victor94":{
         "ownedScript": {
             "qadr_ui": true
         }
