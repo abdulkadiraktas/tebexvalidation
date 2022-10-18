@@ -375,7 +375,7 @@
             "qadr_ui": true
         }
     },
-    "hollowcreekrp":{
+    "redmcollectiverp":{
         "ownedScript": {
             "qadr_ui": true
         }
@@ -503,7 +503,7 @@
             "qadr_identity": true
         }
     },
-    "follower-kieran":{
+    "follower":{
         "ownedScript": {
             "qadr_icons": true
         }
