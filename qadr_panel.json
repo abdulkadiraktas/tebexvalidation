@@ -1,7 +1,11 @@
 {
-    "version":0.57,
-    "changelog" : "Update verification system for cfxre identifier",
+    "version":1.0,
+    "changelog" : "New update",
     "old":[
+        {
+            "version":0.57,
+            "changelog" : "Update verification system for cfxre identifier"
+        },
         {
             "version":0.56,
             "changelog" : "Add admins support!\nUpdate verification system base!\nAvailable Permissions : \n Kick Player \n Add Item\n Add Money\n Teleport Player To Coords\n Boost HP and Energy \n Realtime Data Update\n Download Data\n Add Page\n Delete Page\n Page Data Update\nFor more details check the discord : https://dc.abdulkadiraktas.com.tr"

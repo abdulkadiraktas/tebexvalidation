@@ -527,5 +527,25 @@
         "ownedScript": {
             "qadr_train": true
         }
+    },
+    "jexpy":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "testingtesting":{
+        "ownedScript": {
+            "qadr_icons": true,
+            "qadr_vorp_panel":true
+        }
+    },
+    "redwestrp":{
+        "ownedScript": {
+            "qadr_panel": true,
+            "qadr_train": true,
+            "qadr_identity":true,
+            "qadr_fishing":true,
+            "qadr_map":true
+        }
     }
 }
