@@ -547,5 +547,10 @@
             "qadr_fishing":true,
             "qadr_map":true
         }
+    },
+    "alexandru":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
     }
 }
