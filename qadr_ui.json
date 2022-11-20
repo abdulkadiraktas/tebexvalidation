@@ -1,7 +1,19 @@
 {
-    "version":1.2,
-    "changelog" : "Added minimap zoom and shop item info system./nFor more info : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/10?u=abdulkadiraktas",
+    "version":1.42,
+    "changelog" : "Added new export function 'exports[\"qadr_ui\"]:getCurrentEmoteUI()'\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/emote-ui-radial-menu#usable-functions",
     "old":[
+        {
+            "version":1.41,
+            "changelog" : "Added emote ui system.\nFor more info : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/12?u=abdulkadiraktas"
+        },
+        {
+            "version":1.3,
+            "changelog" : "Fix 'Message' text on score ui. And added 'Ledger' command for testing. For more info : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/11?u=abdulkadiraktas"
+        },
+        {
+            "version":1.2,
+            "changelog" : "Added minimap zoom and shop item info system.\nFor more info : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/10?u=abdulkadiraktas"
+        },
         {
             "version":1.0,
             "changelog" : "Added :\nCard Game UI"
