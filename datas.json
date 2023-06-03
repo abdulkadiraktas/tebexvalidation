@@ -1,16 +1,4 @@
 {
-    "abdulkadiraktas": {
-        "ownedScript": {
-            "qadr_fishing": true,
-            "qadr_map": true,
-            "qadr_icons": true,
-            "qadr_panel": true,
-            "qadr_train": true,
-            "qadr_ui": true,
-            "qadr_vorp_panel": true,
-            "qadr_shooting_range": true
-        }
-    },
     "tabutcu25-ejj7qd.users.cfx.re": {
         "ownedScript": {
             "qadr_vorp_panel": true
