@@ -1,7 +1,11 @@
 {
-    "version":1.42,
-    "changelog" : "Added new export function 'exports[\"qadr_ui\"]:getCurrentEmoteUI()'\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/emote-ui-radial-menu#usable-functions",
+    "version":1.5,
+    "changelog" : "Now when the script is stopped, all active UIs created with the script are reset.",
     "old":[
+        {
+            "version":1.42,
+            "changelog" : "Added new export function 'exports[\"qadr_ui\"]:getCurrentEmoteUI()'\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/emote-ui-radial-menu#usable-functions",
+        },
         {
             "version":1.41,
             "changelog" : "Added emote ui system.\nFor more info : https://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/12?u=abdulkadiraktas"
