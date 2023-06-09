@@ -1,4 +1,7 @@
-local all_ambient = {
+vector3 = function(x, y, z)
+    return {x = x, y = y, z = z}
+end
+all_ambient = {
     saint_denis_cell_ambient = {
         {
             ["mainplayercoords"] = vector3(2508.58, -1309.22, 48.95),
