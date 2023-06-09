@@ -1,4 +1,4 @@
-all_ambient = {
+local all_ambient = {
     saint_denis_cell_ambient = {
         {
             ["mainplayercoords"] = vector3(2508.58, -1309.22, 48.95),
