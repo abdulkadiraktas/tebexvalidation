@@ -1,5 +1,5 @@
 {
-  "identityambientdata": [    
+  "identityambientdata": [
     {
       "saint_denis_cell_ambient": [
         {
@@ -222,7 +222,7 @@
           }
         }
       ],
-      "valentine_saloon" : [
+      "valentine_saloon": [
         {
           "mainplayercoords": {
             "x": -313.32,
@@ -273,6 +273,235 @@
               "x": -4.55,
               "y": 0,
               "z": 67.05
+            }
+          }
+        }
+      ],
+      "valentine_train_station": [
+        {
+          "mainplayercoords": {
+            "x": -166.77000427246094,
+            "y": 640.8099975585938,
+            "z": 113.88999938964844
+          },
+          "ambiyansdata": {
+            "tren": {
+              "coords": {
+                "x": -106.8499984741211,
+                "y": 445.3599853515625,
+                "z": 111.62000274658203
+              },
+              "hash": 1495948496,
+              "direction": 0
+            },
+            "sabitobjeler": [
+              {
+                "coords": {
+                  "x": -166.47000122070312,
+                  "y": 636.77001953125,
+                  "z": 113.02999877929688
+                },
+                "prop": "p_lightcourtnbx01x",
+                "rots": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              }
+            ]
+          },
+          "coords": [
+            {
+              "weaponanim": "WEAPON_SNIPERRIFLE_CARCANO",
+              "animasyon": {
+                "male": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@male": {
+                      "animler": [
+                        "idle_m06"
+                      ]
+                    }
+                  }
+                ],
+                "female": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "idle_f06"
+                      ]
+                    }
+                  },
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "intro_f06"
+                      ]
+                    }
+                  }
+                ]
+              },
+              "cam": {
+                "coords": {
+                  "x": -163.82000732421875,
+                  "y": 636.1699829101562,
+                  "z": 114.5
+                },
+                "rot": {
+                  "x": -12.26000022888183,
+                  "y": 0,
+                  "z": -129.5
+                }
+              },
+              "coords": {
+                "x": -162.55999755859375,
+                "y": 635.280029296875,
+                "z": 112.88999938964844
+              },
+              "heading": 45.1
+            },
+            {
+              "weaponanim": "WEAPON_RIFLE_ELEPHANT",
+              "animasyon": {
+                "male": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@male": {
+                      "animler": [
+                        "idle_m06"
+                      ]
+                    }
+                  }
+                ],
+                "female": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "idle_f06"
+                      ]
+                    }
+                  },
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "intro_f06"
+                      ]
+                    }
+                  }
+                ]
+              },
+              "cam": {
+                "coords": {
+                  "x": -164.44000244140625,
+                  "y": 636.8300170898438,
+                  "z": 114.16000366210938
+                },
+                "rot": {
+                  "x": -5.53999996185302,
+                  "y": 0,
+                  "z": -154.67999267578125
+                }
+              },
+              "coords": {
+                "x": -163.11000061035156,
+                "y": 634.6500244140625,
+                "z": 112.87000274658203
+              },
+              "heading": 35.1
+            },
+            {
+              "weaponanim": "WEAPON_RIFLE_ELEPHANT",
+              "animasyon": {
+                "male": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@male": {
+                      "animler": [
+                        "idle_m06"
+                      ]
+                    }
+                  }
+                ],
+                "female": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "idle_f06"
+                      ]
+                    }
+                  },
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "intro_f06"
+                      ]
+                    }
+                  }
+                ]
+              },
+              "cam": {
+                "coords": {
+                  "x": -165.07000732421875,
+                  "y": 636.6400146484375,
+                  "z": 114.62000274658203
+                },
+                "rot": {
+                  "x": -2.41000008583068,
+                  "y": 0,
+                  "z": -155.49000549316406
+                }
+              },
+              "coords": {
+                "x": -163.8300018310547,
+                "y": 634.2999877929688,
+                "z": 113.06999969482422
+              },
+              "heading": 25.1
+            },
+            {
+              "weaponanim": "WEAPON_RIFLE_BOLTACTION",
+              "animasyon": {
+                "male": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@male": {
+                      "animler": [
+                        "idle_m06"
+                      ]
+                    }
+                  }
+                ],
+                "female": [
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "idle_f06"
+                      ]
+                    }
+                  },
+                  {
+                    "script_mp@photo_studio@chair_rifles@female": {
+                      "animler": [
+                        "intro_f06"
+                      ]
+                    }
+                  }
+                ]
+              },
+              "heading": 15.1,
+              "coords": {
+                "x": -164.58999633789062,
+                "y": 634.030029296875,
+                "z": 113.05999755859375
+              }
+            }
+          ],
+          "cam": {
+            "coords": {
+              "x": -165.07000732421875,
+              "y": 636.6400146484375,
+              "z": 114.62000274658203
+            },
+            "rot": {
+              "x": -2.41000008583068,
+              "y": 0,
+              "z": -155.49000549316406
             }
           }
         }
