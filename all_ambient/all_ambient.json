@@ -117,6 +117,7 @@
       ],
       "Black_water_saloon": [
         {
+          "requiredVersion" : 2.1,
           "coords": [
             {
               "coords": {
