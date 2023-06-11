@@ -3,6 +3,7 @@
     {
       "saint_denis_cell_ambient": [
         {
+          "requiredVersion" : 2.2,
           "coords": [
             {
               "camoffset": {
