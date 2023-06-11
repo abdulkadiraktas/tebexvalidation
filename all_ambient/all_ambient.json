@@ -172,20 +172,19 @@
           "coords": [
             {
               "coords": {
-                "y": -1230.75,
-                "z": 46.64,
-                "x": 2829.69
+                "x": 2829.368408,
+                "y": -1228.704102,
+                "z": 46.635246
               },
-              "weaponanim": "WEAPON_RIFLE_BOLTACTION",
-              "animasyon": "weaponanims",
-              "heading": -90
+              "scenario": -2123103817
             },
             {
               "coords": {
-                "y": -1229.5,
-                "z": 46.64,
-                "x": 2829.42
-              }
+                "y": -1227.645752,
+                "z": 47.132248,
+                "x": 2829.695313
+              },
+              "scenario": 372995
             },
             {
               "coords": {
