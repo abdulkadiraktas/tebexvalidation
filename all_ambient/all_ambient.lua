@@ -1,6 +1,3 @@
-vector3 = function(x, y, z)
-    return {x = x, y = y, z = z}
-end
 all_ambient = {
     saint_denis_cell_ambient = {
         {
@@ -51,7 +48,7 @@ all_ambient = {
                 ["z"] = 43.66026306152344
             },
             coords = {
-                ["[1]"] = {
+                [1] = {
                     animasyon = "weaponanims",
                     weaponanim = "WEAPON_RIFLE_BOLTACTION",
                     heading = -90.0,
@@ -61,14 +58,14 @@ all_ambient = {
                     ["z"] = 46.64
                     }
                 },
-                ["[2]"] = {
+                [2] = {
                     coords = {
                     ["x"] = 2829.42,
                     ["y"] = -1229.5,
                     ["z"] = 46.64
                     }
                 },
-                ["[3]"] = {
+                [3] = {
                     animasyon = "weaponanims",
                     weaponanim = "WEAPON_RIFLE_BOLTACTION",
                     heading = 233.0,
@@ -78,7 +75,7 @@ all_ambient = {
                     ["z"] = 46.64
                     }
                 },
-                ["[4]"] = {
+                [4] = {
                     coords = {
                     ["x"] = 2829.7,
                     ["y"] = -1227.65,
@@ -108,28 +105,28 @@ all_ambient = {
                 ["z"] = 27.9
             },
             coords = {
-                ["[1]"] = {
+                [1] = {
                     coords = {
                     ["x"] = -812.35,
                     ["y"] = -1324.79,
                     ["z"] = 46.87
                     }
                 },
-                ["[2]"] = {
+                [2] = {
                     coords = {
                     ["x"] = -813.32,
                     ["y"] = -1325.11,
                     ["z"] = 46.87
                     }
                 },
-                ["[3]"] = {
+                [3] = {
                     coords = {
                     ["x"] = -814.14,
                     ["y"] = -1324.75,
                     ["z"] = 46.87
                     }
                 },
-                ["[4]"] = {
+                [4] = {
                     coords = {
                     ["x"] = -814.6,
                     ["y"] = -1323.92,
