@@ -1,7 +1,11 @@
 {
-    "version":1.51,
-    "changelog" : "Add button config to config lua",
+    "version":1.52,
+    "changelog" : "Add hole mode option.",
     "old":[
+        {
+            "version":1.51,
+            "changelog" : "Add button config to config lua",
+        },
         {
             "version":1.5,
             "changelog" : "Now when the script is stopped, all active UIs created with the script are reset."
