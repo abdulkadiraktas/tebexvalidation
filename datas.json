@@ -252,7 +252,8 @@
     },
     "dafischers":{
         "ownedScript": {
-            "qadr_train": true
+            "qadr_train": true,
+            "qadr_train_creator": true
         }
     },
     "pegazzproduction":{
@@ -384,12 +385,49 @@
             "qadr_train": true,
             "qadr_identity":true,
             "qadr_fishing":true,
-            "qadr_map":true
+            "qadr_map":true,
+            "qadr_ui":true
         }
     },
     "alexandru":{
         "ownedScript": {
             "qadr_identity": true
+        }
+    },
+    "darthvapers":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "papa":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "forty":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "zmhub":{
+        "ownedScript": {
+            "qadr_ui": true
+        }
+    },
+    "scaping":{
+        "ownedScript": {
+            "qadr_fishing": true,
+            "qadr_train_creator": true
+        }
+    },
+    "russianshrike":{
+        "ownedScript": {
+            "qadr_identity": true
+        }
+    },
+    "inepsa":{
+        "ownedScript": {
+            "qadr_shooting_range": true
         }
     }
 }
