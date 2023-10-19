@@ -1,7 +1,27 @@
 {
-    "version":1.52,
-    "changelog" : "Add hole mode option.",
+    "version":1.62,
+    "changelog" : "Meter creation function updated. Now you will create the meters orderly.",
     "old":[
+        {
+            "version":1.61,
+            "changelog" : "Update meter function to 10 meters.\nNow you can create 10 meters at the same time. Also old version metersui not supported any more.\nhttps://www.youtube.com/watch?v=QB-dTLkudRA\nOnline readme : https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/meters-ui"
+        },
+        {
+            "version":1.60,
+            "changelog" : "Ability UI has been added.\nNow you can use, change or even hide the ability interface as you wish.\nhttps://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/17?u=abdulkadiraktas"
+        },
+        {
+            "version":1.54,
+            "changelog" : "Wanted UI function updated.\n wrongWayUI added \n moneyUI added\nhttps://forum.cfx.re/t/paid-qadr-ui-standalone/4872625/16?u=abdulkadiraktas"
+        },
+        {
+            "version":1.53,
+            "changelog" : "Death screen added."
+        },
+        {
+            "version":1.52,
+            "changelog" : "Add hole mode option."
+        },
         {
             "version":1.51,
             "changelog" : "Add button config to config lua",
