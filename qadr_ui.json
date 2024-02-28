@@ -1,7 +1,15 @@
 {
-    "version":1.62,
-    "changelog" : "Meter creation function updated. Now you will create the meters orderly.",
+    "version":1.70,
+    "changelog" : "Usable Legendary Animal Maps system added.",
     "old":[
+        {
+            "version":1.65,
+            "changelog" : "You can show/hide map icon. (1600+ icon)\nCheck online readme for more information."
+        },
+        {
+            "version":1.62,
+            "changelog" : "Meter creation function updated. Now you will create the meters orderly."
+        },
         {
             "version":1.61,
             "changelog" : "Update meter function to 10 meters.\nNow you can create 10 meters at the same time. Also old version metersui not supported any more.\nhttps://www.youtube.com/watch?v=QB-dTLkudRA\nOnline readme : https://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/meters-ui"

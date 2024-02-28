@@ -12,17 +12,6 @@
             "qadr_shooting_range": true
         }
     },
-    "tabutcu25-ejj7qd.users.cfx.re": {
-        "ownedScript": {
-            "qadr_vorp_panel": true
-        },
-        "admincount": 2
-    },
-    "reezo1-q3b7x9.users.cfx.re": {
-        "ownedScript": {
-            "qadr_map": true
-        }
-    },
     "tabutcu25": {
         "ownedScript": {
             "qadr_vorp_panel": true
@@ -428,6 +417,11 @@
     "inepsa":{
         "ownedScript": {
             "qadr_shooting_range": true
+        }
+    },
+    "amitrippinn":{
+        "ownedScript":{
+            "qadr_identity":true
         }
     }
 }
