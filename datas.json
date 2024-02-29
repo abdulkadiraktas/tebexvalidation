@@ -422,8 +422,34 @@
     "amitrippinn":{
         "ownedScript":{
             "qadr_identity":true,
-            "qadr_panel":true
+            "qadr_panel":true,
+            "qadr_fishing":true
         },
         "admincount": 2
+    },
+    "iamgroot1":{
+        "ownedScript":{
+            "qadr_ui":true
+        }
+    },
+    "thugliferdr":{
+        "ownedScript":{
+            "qadr_ui":true
+        }
+    },
+    "jannings2020":{
+        "ownedScript":{
+            "qadr_ui":true
+        }
+    },
+    "mnmillmat1c":{
+        "ownedScript":{
+            "qadr_ui":true
+        }
+    },
+    "vinicius7199":{
+        "ownedScript":{
+            "qadr_ui":true
+        }
     }
 }
