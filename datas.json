@@ -421,7 +421,9 @@
     },
     "amitrippinn":{
         "ownedScript":{
-            "qadr_identity":true
-        }
+            "qadr_identity":true,
+            "qadr_panel":true
+        },
+        "admincount": 2
     }
 }
