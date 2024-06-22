@@ -1,7 +1,15 @@
 {
-    "version":1.70,
-    "changelog" : "Usable Legendary Animal Maps system added.",
+    "version":2.1,
+    "changelog" : "Some typo fixes\n* Added 'legendaryAnimalMenu' export function",
     "old":[
+        {
+            "version":2.0,
+            "changelog" : "Added more export functions.\n photoModeEnableDisable\nbountyString\nsetPlayerUI\nAdded $sing on moneyUI function\n"
+        },
+        {
+            "version":1.70,
+            "changelog" : "Usable Legendary Animal Maps system added."
+        },
         {
             "version":1.65,
             "changelog" : "You can show/hide map icon. (1600+ icon)\nCheck online readme for more information."
