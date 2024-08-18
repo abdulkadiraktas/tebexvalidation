@@ -44,7 +44,7 @@
         },
         {
             "version":1.51,
-            "changelog" : "Add button config to config lua",
+            "changelog" : "Add button config to config lua"
         },
         {
             "version":1.5,
@@ -52,7 +52,7 @@
         },
         {
             "version":1.42,
-            "changelog" : "Added new export function 'exports[\"qadr_ui\"]:getCurrentEmoteUI()'\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/emote-ui-radial-menu#usable-functions",
+            "changelog" : "Added new export function 'exports[\"qadr_ui\"]:getCurrentEmoteUI()'\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/emote-ui-radial-menu#usable-functions"
         },
         {
             "version":1.41,
