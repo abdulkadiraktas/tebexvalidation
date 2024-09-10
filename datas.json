@@ -461,5 +461,11 @@
         "ownedScript":{
             "qadr_ui":true
         }
+    },
+    "jimmy_wriggt":{        
+        "ownedScript": {
+            "qadr_vorp_panel": true
+        },
+        "admincount": 4
     }
 }
