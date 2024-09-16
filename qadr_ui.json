@@ -1,7 +1,11 @@
 {
-    "version":2.2,
-    "changelog" : "Catalog creator added.\nhttps://www.youtube.com/watch?v=iSC8DbYmENU\nSome free ui functions added\nOnline readme\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/usable-handheld-catalogue",
+    "version":2.5,
+    "changelog" : "Ledger creator added.\nhttps://www.youtube.com/watch?v=phKSA8qp4j4\nOnline readme\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/ledger-system",
     "old":[
+        {
+            "version":2.2,
+            "changelog" : "Catalog creator added.\nhttps://www.youtube.com/watch?v=iSC8DbYmENU\nSome free ui functions added\nOnline readme\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/usable-handheld-catalogue"
+        },
         {
             "version":2.1,
             "changelog" : "Some typo fixes\n* Added 'legendaryAnimalMenu' export function"
