@@ -1,7 +1,15 @@
 {
-    "version":2.5,
-    "changelog" : "Ledger creator added.\nhttps://www.youtube.com/watch?v=phKSA8qp4j4\nOnline readme\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/ledger-system",
+    "version":2.63,
+    "changelog": ":loudspeaker: Changelog | Update qadr_ui v2.63\n\n:gear: Refactor & Improvements:\n\nRefactored seasonpass.lua:\n- Removed unused variables and commented-out code.\n- Updated the reward handling structure.\n- Improved data processing logic.\n\n:triangular_flag_on_post: File Structure Notice:\n\n🔥 Please delete your existing Qadr_UI folder and perform a clean install of the updated version.\n\n:pushpin: This update focuses on backend improvements and prepares the script for future feature extensions.",
     "old":[
+        {
+            "version":2.62,
+            "changelog": ":loudspeaker: Changelog | Update qadr_ui v2.62\n\n:rocket: New Features:\n\nBounty Poster System (bountyposter.lua) improved.\nEasily manage bounty posters directly in-game.\n\nJournal System (journal.lua) improved.\nPlayers can now track and interact with personalized journal entries.\n\nSeason Pass System (seasonpass.lua) added.\nManage season pass rewards and UI interactions seamlessly!\n\n:sparkles: Enhancements:\n\nImproved UI configuration (conf.lua) with detailed comments for clarity.\nAdded seasonrewards export to fxmanifest.lua.\nUpdated version number to 2.62 in verification.lua.\n\n:wrench: Code Improvements:\n\nRefactored server-side checks in functions.lua for cleaner execution.\nRemoved unnecessary debug print statements (functions.lua, journal.lua, seasonpass.lua).\nCleaned up commented-out debug code from eventhandler.lua.\n\n:pushpin: Enjoy a cleaner, more performant, and user-friendly gaming experience!"
+        },
+        {
+            "version":2.5,
+            "changelog" : "Ledger creator added.\nhttps://www.youtube.com/watch?v=phKSA8qp4j4\nOnline readme\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/ledger-system"
+        },
         {
             "version":2.2,
             "changelog" : "Catalog creator added.\nhttps://www.youtube.com/watch?v=iSC8DbYmENU\nSome free ui functions added\nOnline readme\nhttps://abdulkadir-aktas.gitbook.io/qadr_docs/qadr_ui/usable-handheld-catalogue"
