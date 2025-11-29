@@ -1,7 +1,27 @@
 {
-    "version":2.63,
-    "changelog": ":loudspeaker: Changelog | Update qadr_ui v2.63\n\n:gear: Refactor & Improvements:\n\nRefactored seasonpass.lua:\n- Removed unused variables and commented-out code.\n- Updated the reward handling structure.\n- Improved data processing logic.\n\n:triangular_flag_on_post: File Structure Notice:\n\n🔥 Please delete your existing Qadr_UI folder and perform a clean install of the updated version.\n\n:pushpin: This update focuses on backend improvements and prepares the script for future feature extensions.",
+    "version":3.5,
+    "changelog": "",
     "old":[
+        {
+            "version":3.5,
+            "changelog": ":loudspeaker: Changelog | Update qadr_ui v3.5\n\n:gear: Refactor & Improvements:\n\n- Moved and refactored craftingMenuCreator to a new shared/craftingmenu.lua file.\n- Added support for multi-page crafting menus and improved data normalization.\n- Updated examples.lua to demonstrate new multi-category crafting menu usage.\n- Enhanced English locale with additional catalog translations.\n- Minor stat comparison adjustment and debug print improvements in functions.lua.\n- Enhanced fillet UI cleanup by clearing player stack and game settings bindings.\n- Disabled native inventory system in configuration.\n\n:pushpin: This update improves the crafting menu system and overall UI cleanup."
+        },
+        {
+            "version":3.3,
+            "changelog": ":loudspeaker: Changelog | Update qadr_ui v3.3\n\n:rocket: New Features:\n\n- Introduced a new Lua file for role progression with functions to manage role cards, rank items, and kit items.\n- Implemented a mergeDefaults function to initialize user data with default values.\n- Added event watchers for role progression and season rewards, enhancing UI interaction.\n\n:gear: Refactor & Improvements:\n\n- Refactored the season rewards function to utilize the new event watcher structure.\n- Improved code organization and readability.\n- Removed obsolete event watching code from the season rewards function.\n- Updated functions.lua with role progression functionality.\n\n:pushpin: This update adds role progression system and enhances event handling."
+        },
+        {
+            "version":3.0,
+            "changelog": ":loudspeaker: Changelog | Update qadr_ui v3.0\n\n:gear: Refactor & Improvements:\n\n- Refactored bountyposter.lua to improve poster management logic.\n- Removed redundant checks and cleaned up the removePoster function.\n- Enhanced texture handling in createPoster function.\n- Added missing translations.\n- Updated functions.lua.\n\n:pushpin: This update focuses on improving poster management and adding language support."
+        },
+        {
+            "version":2.65,
+            "changelog": ":loudspeaker: Changelog | Update qadr_ui v2.65\n\n:gear: Refactor & Improvements:\n\n- Refactored seasonpass.lua by removing unused variables and commented-out code to streamline functionality.\n- Updated the structure for season rewards handling and improved data processing logic.\n- Updated fxmanifest.lua to include new poster-related exports.\n- Incremented version in verification.lua.\n- Enhanced bountyposter.lua with new functions for poster management.\n- Adjusted functions in seasonpass.lua and functions.lua for improved logic and cleanup.\n\n:pushpin: This update improves season pass and bounty poster systems."
+        },
+        {
+            "version":2.63,
+            "changelog": ":loudspeaker: Changelog | Update qadr_ui v2.63\n\n:gear: Refactor & Improvements:\n\nRefactored seasonpass.lua:\n- Removed unused variables and commented-out code.\n- Updated the reward handling structure.\n- Improved data processing logic.\n\n:triangular_flag_on_post: File Structure Notice:\n\n🔥 Please delete your existing Qadr_UI folder and perform a clean install of the updated version.\n\n:pushpin: This update focuses on backend improvements and prepares the script for future feature extensions."
+        },
         {
             "version":2.62,
             "changelog": ":loudspeaker: Changelog | Update qadr_ui v2.62\n\n:rocket: New Features:\n\nBounty Poster System (bountyposter.lua) improved.\nEasily manage bounty posters directly in-game.\n\nJournal System (journal.lua) improved.\nPlayers can now track and interact with personalized journal entries.\n\nSeason Pass System (seasonpass.lua) added.\nManage season pass rewards and UI interactions seamlessly!\n\n:sparkles: Enhancements:\n\nImproved UI configuration (conf.lua) with detailed comments for clarity.\nAdded seasonrewards export to fxmanifest.lua.\nUpdated version number to 2.62 in verification.lua.\n\n:wrench: Code Improvements:\n\nRefactored server-side checks in functions.lua for cleaner execution.\nRemoved unnecessary debug print statements (functions.lua, journal.lua, seasonpass.lua).\nCleaned up commented-out debug code from eventhandler.lua.\n\n:pushpin: Enjoy a cleaner, more performant, and user-friendly gaming experience!"
