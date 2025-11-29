@@ -1,6 +1,6 @@
 {
     "version":3.5,
-    "changelog": "",
+    "changelog": ":loudspeaker: Changelog | Update qadr_ui v3.5\n\n:gear: Refactor & Improvements:\n\n- Moved and refactored craftingMenuCreator to a new shared/craftingmenu.lua file.\n- Added support for multi-page crafting menus and improved data normalization.\n- Updated examples.lua to demonstrate new multi-category crafting menu usage.\n- Enhanced English locale with additional catalog translations.\n- Minor stat comparison adjustment and debug print improvements in functions.lua.\n- Enhanced fillet UI cleanup by clearing player stack and game settings bindings.\n- Disabled native inventory system in configuration.\n\n:pushpin: This update improves the crafting menu system and overall UI cleanup.",
     "old":[
         {
             "version":3.5,
